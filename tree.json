@@ -5,99 +5,68 @@
   "children": [
     {
       "type": "folder",
-      "name": "radom3",
-      "path": "radom3",
-      "children": [
-        {
-          "type": "file",
-          "name": "hello.md",
-          "path": "radom3/hello.md"
-        }
-      ]
-    },
-    {
-      "type": "folder",
-      "name": "random",
-      "path": "random",
-      "children": [
-        {
-          "type": "file",
-          "name": "hello.md",
-          "path": "random/hello.md"
-        }
-      ]
-    },
-    {
-      "type": "folder",
-      "name": "random2",
-      "path": "random2",
+      "name": "New folder",
+      "path": "New folder",
       "children": [
         {
           "type": "folder",
           "name": "New folder",
-          "path": "random2/New folder",
+          "path": "New folder/New folder",
           "children": [
-            {
-              "type": "folder",
-              "name": "new",
-              "path": "random2/New folder/new",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "hello.md",
-                  "path": "random2/New folder/new/hello.md"
-                }
-              ]
-            },
             {
               "type": "file",
               "name": "hello.md",
-              "path": "random2/New folder/hello.md"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "newnew",
-          "path": "random2/newnew",
-          "children": [
-            {
-              "type": "folder",
-              "name": "new",
-              "path": "random2/newnew/new",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "neww",
-                  "path": "random2/newnew/new/neww",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "hello.md",
-                      "path": "random2/newnew/new/neww/hello.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "file",
-                  "name": "hello.md",
-                  "path": "random2/newnew/new/hello.md"
-                }
-              ]
-            },
-            {
-              "type": "file",
-              "name": "hello.md",
-              "path": "random2/newnew/hello.md"
+              "path": "New folder/New folder/hello.md"
             }
           ]
         },
         {
           "type": "file",
           "name": "hello.md",
-          "path": "random2/hello.md"
+          "path": "New folder/hello.md"
         }
       ]
+    },
+    {
+      "type": "folder",
+      "name": "New folder (2)",
+      "path": "New folder (2)",
+      "children": [
+        {
+          "type": "file",
+          "name": "hello.md",
+          "path": "New folder (2)/hello.md"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "New folder (3)",
+      "path": "New folder (3)",
+      "children": [
+        {
+          "type": "folder",
+          "name": "New folder",
+          "path": "New folder (3)/New folder",
+          "children": [
+            {
+              "type": "file",
+              "name": "hello.md",
+              "path": "New folder (3)/New folder/hello.md"
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "name": "hello.md",
+          "path": "New folder (3)/hello.md"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "hello.md",
+      "path": "hello.md"
     }
   ]
 }
