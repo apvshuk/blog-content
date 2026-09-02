@@ -13,10 +13,11 @@
           "name": "1.md",
           "path": "Personal/1.md",
           "slug": "hello",
-          "title": "Yo",
+          "title": "First Aeticle",
           "status": "OPEN",
           "tags": [
-            "hello"
+            "intro",
+            "introducing-myself"
           ],
           "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
           "completed": false
