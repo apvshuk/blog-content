@@ -16,14 +16,26 @@
             {
               "type": "file",
               "name": "hello.md",
-              "path": "New folder/New folder/hello.md"
+              "path": "New folder/New folder/hello.md",
+              "slug": "hello",
+              "title": "Yo",
+              "status": "OPEN",
+              "tags": [],
+              "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+              "completed": false
             }
           ]
         },
         {
           "type": "file",
           "name": "hello.md",
-          "path": "New folder/hello.md"
+          "path": "New folder/hello.md",
+          "slug": "hello",
+          "title": "Yo",
+          "status": "OPEN",
+          "tags": [],
+          "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+          "completed": false
         }
       ]
     },
@@ -35,7 +47,13 @@
         {
           "type": "file",
           "name": "hello.md",
-          "path": "New folder (2)/hello.md"
+          "path": "New folder (2)/hello.md",
+          "slug": "hello",
+          "title": "Yo",
+          "status": "OPEN",
+          "tags": [],
+          "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+          "completed": false
         }
       ]
     },
@@ -52,21 +70,59 @@
             {
               "type": "file",
               "name": "hello.md",
-              "path": "New folder (3)/New folder/hello.md"
+              "path": "New folder (3)/New folder/hello.md",
+              "slug": "hello",
+              "title": "Yo",
+              "status": "OPEN",
+              "tags": [],
+              "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+              "completed": false
             }
           ]
         },
         {
           "type": "file",
           "name": "hello.md",
-          "path": "New folder (3)/hello.md"
+          "path": "New folder (3)/hello.md",
+          "slug": "hello",
+          "title": "Yo",
+          "status": "OPEN",
+          "tags": [],
+          "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+          "completed": false
         }
       ]
     },
     {
       "type": "file",
+      "name": ".gitignore",
+      "path": ".gitignore"
+    },
+    {
+      "type": "file",
+      "name": "generate-tree.js",
+      "path": "generate-tree.js"
+    },
+    {
+      "type": "file",
       "name": "hello.md",
-      "path": "hello.md"
+      "path": "hello.md",
+      "slug": "hello",
+      "title": "Yo",
+      "status": "OPEN",
+      "tags": [],
+      "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
+      "completed": false
+    },
+    {
+      "type": "file",
+      "name": "package-lock.json",
+      "path": "package-lock.json"
+    },
+    {
+      "type": "file",
+      "name": "package.json",
+      "path": "package.json"
     }
   ]
 }
