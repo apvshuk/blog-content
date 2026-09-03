@@ -44,6 +44,22 @@
           ],
           "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
           "completed": false
+        },
+        {
+          "type": "file",
+          "name": "interactive-social-network.md",
+          "path": "Personal/interactive-social-network.md",
+          "slug": "interactive-social-network",
+          "title": "College Topology as a Pixel Map with Social features",
+          "status": "OPEN",
+          "tags": [
+            "social-network",
+            "pixel-map",
+            "game",
+            "college-mates"
+          ],
+          "excerpt": "A social network where college students can interact - quite like social media, rather more interactive",
+          "completed": false
         }
       ]
     },
