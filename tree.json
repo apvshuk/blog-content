@@ -9,28 +9,6 @@
       "path": "Personal",
       "children": [
         {
-          "type": "folder",
-          "name": "More-Personal",
-          "path": "Personal/More-Personal",
-          "children": [
-            {
-              "type": "file",
-              "name": "Hey.md",
-              "path": "Personal/More-Personal/Hey.md",
-              "slug": "hello",
-              "title": "second article",
-              "status": "OPEN",
-              "tags": [
-                "intro",
-                "introducing-myself",
-                "again"
-              ],
-              "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
-              "completed": false
-            }
-          ]
-        },
-        {
           "type": "file",
           "name": "1.md",
           "path": "Personal/1.md",
