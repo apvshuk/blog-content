@@ -1,3 +1,12 @@
+---
+slug: 'k&r-c notes'
+title: 'Notes from K&R C'
+status: 'OPEN'
+tags: ['learning-c', 'K&R', 'notes']
+excerpt: ''
+completed: false
+---
+
 # C Notes — K&R
 
 ---
