@@ -5,6 +5,28 @@
   "children": [
     {
       "type": "folder",
+      "name": "learning-c",
+      "path": "learning-c",
+      "children": [
+        {
+          "type": "file",
+          "name": "notes.md",
+          "path": "learning-c/notes.md",
+          "slug": "k&r-c notes",
+          "title": "Notes from K&R C",
+          "status": "OPEN",
+          "tags": [
+            "learning-c",
+            "K&R",
+            "notes"
+          ],
+          "excerpt": "",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "type": "folder",
       "name": "Personal",
       "path": "Personal",
       "children": [
