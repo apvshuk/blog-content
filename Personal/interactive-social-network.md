@@ -12,4 +12,4 @@ In easy words, this is a social media website in which the user is a player in a
 
 # Social Features
 
-Idea for this social network as a game
+Idea for this social network as a game.
