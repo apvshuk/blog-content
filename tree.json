@@ -5,23 +5,23 @@
   "children": [
     {
       "type": "folder",
-      "name": "learning-c",
-      "path": "learning-c",
+      "name": "Book Reviews",
+      "path": "Book Reviews",
       "children": [
         {
           "type": "file",
-          "name": "notes.md",
-          "path": "learning-c/notes.md",
-          "slug": "k&r-c notes",
-          "title": "Notes from K&R C",
+          "name": "Frankenstein.md",
+          "path": "Book Reviews/Frankenstein.md",
+          "slug": "frankenstein",
+          "title": "Frankenstein",
+          "date": "5th August 2025",
           "status": "OPEN",
           "tags": [
-            "learning-c",
-            "K&R",
-            "notes"
+            "book-review",
+            "frankenstein"
           ],
-          "excerpt": "",
-          "completed": false
+          "excerpt": "From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects",
+          "completed": true
         }
       ]
     },
@@ -43,22 +43,6 @@
             "introducing-myself"
           ],
           "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
-          "completed": false
-        },
-        {
-          "type": "file",
-          "name": "interactive-social-network.md",
-          "path": "Personal/interactive-social-network.md",
-          "slug": "interactive-social-network",
-          "title": "College Topology as a Pixel Map with Social features",
-          "status": "OPEN",
-          "tags": [
-            "social-network",
-            "pixel-map",
-            "game",
-            "college-mates"
-          ],
-          "excerpt": "A social network where college students can interact - quite like social media, rather more interactive",
           "completed": false
         }
       ]
