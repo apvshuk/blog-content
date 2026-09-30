@@ -26,28 +26,6 @@
       ]
     },
     {
-      "type": "folder",
-      "name": "Personal",
-      "path": "Personal",
-      "children": [
-        {
-          "type": "file",
-          "name": "1.md",
-          "path": "Personal/1.md",
-          "slug": "hello",
-          "title": "First Aeticle",
-          "date": "21st Sept 2026",
-          "status": "OPEN",
-          "tags": [
-            "intro",
-            "introducing-myself"
-          ],
-          "excerpt": "A downtown storage facility disappears from every city record overnight. Investigators are still asking who filed the paperwork.",
-          "completed": false
-        }
-      ]
-    },
-    {
       "type": "file",
       "name": ".gitignore",
       "path": ".gitignore"
