@@ -5,7 +5,7 @@ date: '5th August 2025'
 status: 'OPEN'
 tags: ['book-review', 'frankenstein']
 excerpt:
-    '"From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects"'
+    '/"From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects/"'
 completed: true
 ---
 
