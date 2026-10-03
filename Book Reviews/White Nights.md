@@ -4,6 +4,7 @@ title: 'White Nights'
 status: 'OPEN'
 tags: ['book-review', 'white-nights', 'dostoevesky']
 completed: true
+excerpt: 'Dostoevesky was an escapist himself'
 ---
 
 # White Nights by Fyodor Dostoevesky - Escapism of Dostoevesky
