@@ -12,7 +12,7 @@ completed: true
 # Animal Farm by George Orwell
 
 This book, in my understanding, has taught me about how communism can fail. George Orwell was against Communism.
-He even signed the end of the book with the year when he wrote the book, which overlapped with the period when UK and the USSR were allies against the allied Germany, Italy and Japan during WW-2.
+He even signed the end of the book with the period (Nov 1943 to Feb 1944) when he wrote the book, which overlapped with the period when UK and the USSR were allies against the allied Germany, Italy and Japan during WW-2.
 This was to show his non-allignment with Russia and rebelliousness with the UK government; he was British.
 
 I have read this book in the most detailed manner that I have ever done.
