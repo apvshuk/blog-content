@@ -2,7 +2,7 @@
 slug: 'White Nights'
 title: 'White Nights'
 status: 'OPEN'
-tags: ['book-review', 'white-nights', 'Dostoevsky']
+tags: ['book-review', 'white-nights', 'dostoevsky']
 completed: true
 excerpt: 'Dostoevsky was an escapist himself'
 ---
