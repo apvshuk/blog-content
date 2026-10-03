@@ -92,8 +92,8 @@
     },
     {
       "type": "file",
-      "name": "todo.md",
-      "path": "todo.md"
+      "name": "todo.txt",
+      "path": "todo.txt"
     }
   ]
 }
