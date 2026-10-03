@@ -38,6 +38,19 @@
         },
         {
           "type": "file",
+          "name": "Communist Manifesto.md",
+          "path": "Book Reviews/Communist Manifesto.md",
+          "slug": "communist-manifesto",
+          "title": "Communist Manifesto",
+          "status": "OPEN",
+          "tags": [
+            "book-review",
+            "communist-manifesto"
+          ],
+          "completed": true
+        },
+        {
+          "type": "file",
           "name": "Frankenstein.md",
           "path": "Book Reviews/Frankenstein.md",
           "slug": "frankenstein",
@@ -76,7 +89,7 @@
           "tags": [
             "book-review",
             "white-nights",
-            "Dostoevsky"
+            "dostoevsky"
           ],
           "completed": true,
           "excerpt": "Dostoevsky was an escapist himself"
