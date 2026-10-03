@@ -4,7 +4,7 @@ title: 'The Fountainhead'
 status: 'OPEN'
 tags: ['book-review', 'the-fountainhead', 'fountainhead']
 excerpt:
-    '"Who will let you?...That\'s not the point; the point is who will stop me!"'
+    '"Who will let you?...That is not the point; the point is who will stop me!"'
 completed: true
 ---
 
