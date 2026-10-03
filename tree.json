@@ -28,13 +28,12 @@
           "path": "Book Reviews/Animal Farm.md",
           "slug": "Animal Farm",
           "title": "Animal Farm",
-          "date": "",
           "status": "OPEN",
           "tags": [
             "book-review",
-            "anima-farm"
+            "animal-farm"
           ],
-          "excerpt": "This is my introductory book on Communism",
+          "excerpt": "This is the book which introduced me to Communism",
           "completed": true
         },
         {
