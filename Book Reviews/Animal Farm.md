@@ -1,25 +1,24 @@
 ---
 slug: 'Animal Farm'
 title: 'Animal Farm'
-date: ''
 status: 'OPEN'
-tags: ['book-review', 'anima-farm']
+tags: ['book-review', 'animal-farm']
 excerpt:
-    'This is my introductory book on Communism'
+    'This is the book which introduced me to Communism'
 completed: true
 ---
 
 # Animal Farm by George Orwell
 
-This book, in my understanding, has taught me about how communism can fail. George Orwell was against Communism.
-He even signed the end of the book with the period (Nov 1943 to Feb 1944) when he wrote the book, which overlapped with the period when UK and the USSR were allies against the allied Germany, Italy and Japan during WW-2.
+This book, in my understanding, has taught me about how communism can fail. George Orwell was not against Communism, but what Animal Farm attacks is Stalinism — the specific Soviet perversion of socialist ideals under Stalin. Napoleon = Stalin. The pigs consolidating power = the Soviet bureaucratic class betraying the revolution. *The book's target is the corruption of a movement*, not the movement itself.
+He signed the end of the book with the period (Nov 1943 to Feb 1944) when he wrote the book, which overlapped with the period when UK and the USSR were ALLIES against the AXIS POWERS Germany, Italy and Japan during WW-2.
 This was to show his non-allignment with Russia and rebelliousness with the UK government; he was British.
 
 I have read this book in the most detailed manner that I have ever done.
-There is one particular part of the book Napoleon, the bore is chasing Snowball, the other potential leader, with dogs. Three "young" "pigs", sitting in the "front row" of the meeting barn, raise there voice. This is really George Orwell mastering at the peak of allegorism. He is trying to say that the to rebel you need three things:
+There is one particular part of the book Napoleon, the boar is chasing Snowball, the other potential leader, with dogs. Three "young" "pigs", sitting in the "front row" of the meeting barn, raise their voice. This is really George Orwell mastering at the peak of allegorism. He is trying to say that to rebel you need three things:
 1. "young" (youth) - young people are still not scared of the horror the power can commit on them, and thus they are less susceptible to be afraid of authority. Example: Bhagat Singh was young.
-2. "front row" (proximity) - proximity to tyranny is important. If Bhagat Singh had not exprieced the tyranny of the the British, he would have not been agitated to rebel.
-3. "pigs" (intellect) - Pigs are said to be the intellectuall race in the book. And they are ones to rebel. So one needs to be intellectual to be understand that wrong is being done.
+2. "front row" (proximity) - proximity to tyranny is important. If Bhagat Singh had not experienced the tyranny of the the British, he would have not been agitated to rebel.
+3. "pigs" (intellect) - Pigs are said to be the intellectual race in the book. And they are ones to rebel. So one needs to be intellectual to understand that wrong is being done.
 
 Even more interesting is what Orwell does next.
 Napoleon uses his dogs to suppress the young pigs raising their voice. Now the young pigs have experienced fear and so they will not rebel anymore. That's the real horror.
