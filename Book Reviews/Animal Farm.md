@@ -12,7 +12,7 @@ completed: true
 
 This book, in my understanding, has taught me about how communism can fail. George Orwell was not against Communism, but what Animal Farm attacks is Stalinism — the specific Soviet perversion of socialist ideals under Stalin. Napoleon = Stalin. The pigs consolidating power = the Soviet bureaucratic class betraying the revolution. *The book's target is the corruption of a movement*, not the movement itself.
 He signed the end of the book with the period (Nov 1943 to Feb 1944) when he wrote the book, which overlapped with the period when UK and the USSR were ALLIES against the AXIS POWERS Germany, Italy and Japan during WW-2.
-This was to show his non-allignment with Russia and rebelliousness with the UK government; he was British.
+This was to show his non-alignment with Russia and rebelliousness with the UK government; he was British.
 
 I have read this book in the most detailed manner that I have ever done.
 There is one particular part of the book Napoleon, the boar is chasing Snowball, the other potential leader, with dogs. Three "young" "pigs", sitting in the "front row" of the meeting barn, raise their voice. This is really George Orwell mastering at the peak of allegorism. He is trying to say that to rebel you need three things:
