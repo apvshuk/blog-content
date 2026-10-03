@@ -10,11 +10,6 @@
       "children": [
         {
           "type": "file",
-          "name": ".1984.md.swp",
-          "path": "Book Reviews/.1984.md.swp"
-        },
-        {
-          "type": "file",
           "name": "1984.md",
           "path": "Book Reviews/1984.md",
           "slug": "1984",
@@ -25,8 +20,13 @@
             "book-review",
             "1984"
           ],
-          "excerpt": "\"From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects\"",
+          "excerpt": "I could feel the emptyness of the world in this book while reading it. It was empty and sad and frightening. It was DYSTOPIA.",
           "completed": true
+        },
+        {
+          "type": "file",
+          "name": "Animal Farm",
+          "path": "Book Reviews/Animal Farm"
         },
         {
           "type": "file",
