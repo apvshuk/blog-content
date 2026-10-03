@@ -10,6 +10,26 @@
       "children": [
         {
           "type": "file",
+          "name": ".1984.md.swp",
+          "path": "Book Reviews/.1984.md.swp"
+        },
+        {
+          "type": "file",
+          "name": "1984.md",
+          "path": "Book Reviews/1984.md",
+          "slug": "1984",
+          "title": "1984",
+          "date": "",
+          "status": "OPEN",
+          "tags": [
+            "book-review",
+            "1984"
+          ],
+          "excerpt": "\"From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects\"",
+          "completed": true
+        },
+        {
+          "type": "file",
           "name": "Frankenstein.md",
           "path": "Book Reviews/Frankenstein.md",
           "slug": "frankenstein",
@@ -22,6 +42,23 @@
           ],
           "excerpt": "\"From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation. I read with ardour those works, so full of genius and discrimination, which modern inquirers have written on these subjects\"",
           "completed": true
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "History",
+      "path": "History",
+      "children": [
+        {
+          "type": "file",
+          "name": "Marie Antoinette.md",
+          "path": "History/Marie Antoinette.md"
+        },
+        {
+          "type": "file",
+          "name": "Napoleon Bonaparte.md",
+          "path": "History/Napoleon Bonaparte.md"
         }
       ]
     },
