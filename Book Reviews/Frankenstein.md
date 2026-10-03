@@ -33,3 +33,6 @@ He studies ardently for two years, not knowing when sun rised and when it sets, 
 There's another quote in Frankenstein which I like, and it quite fits "Kafkaesque":
 > "...tortured the living animal to animate the lifeless clay..."
 That is Frankenstein narrating his plight to Robert Walton (or whatever his name was, he is actually my more favourite character in this book), about him killing and torturing living animals to create new life; how ironic. This qoute actually shows how obsessiveness can be so ironic yet tempting and to-die-for.
+
+About R Walton:
+He is actually my most favourite character in this book. Maybe, only little more favourite than Frankenstein.
