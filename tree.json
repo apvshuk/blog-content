@@ -25,8 +25,18 @@
         },
         {
           "type": "file",
-          "name": "Animal Farm",
-          "path": "Book Reviews/Animal Farm"
+          "name": "Animal Farm.md",
+          "path": "Book Reviews/Animal Farm.md",
+          "slug": "Animal Farm",
+          "title": "Animal Farm",
+          "date": "",
+          "status": "OPEN",
+          "tags": [
+            "book-review",
+            "anima-farm"
+          ],
+          "excerpt": "This is my introductory book on Communism",
+          "completed": true
         },
         {
           "type": "file",
