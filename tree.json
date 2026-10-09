@@ -104,7 +104,16 @@
         {
           "type": "file",
           "name": "SSB.md",
-          "path": "Experiences/SSB.md"
+          "path": "Experiences/SSB.md",
+          "slug": "ssb",
+          "title": "SSB",
+          "status": "OPEN",
+          "tags": [
+            "experience",
+            "ssb"
+          ],
+          "excerpt": "My experience giving my first and possibly my last SSB interview",
+          "completed": false
         }
       ]
     },
