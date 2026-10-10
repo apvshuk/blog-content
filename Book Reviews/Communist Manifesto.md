@@ -8,13 +8,7 @@ completed: true
 
 # Communist Manifesto
 
-Here is the complete summary of everything from this conversation:
-
----
-
 **Communist Manifesto — Preamble Analysis**
-*Notes by Ap*
-
 ---
 
 **The 2nd Paragraph of the Preamble — "Where is the party in opposition..."**
