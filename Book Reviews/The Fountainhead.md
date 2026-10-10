@@ -10,8 +10,8 @@ completed: true
 
 # The Fountainhead
 
-This is particularly a special book for me; and for a special reason. When I write these articles I usually don't have the book in front of me; this is to encourage my mind to recall the things I am most ardent about. Here is a quote I really love from the book. So let me quot from my memory something from the book which made me go bonkers when I had read it the first time:
-> Dean: "...do you really plan to made such buildings son?"
+This is particularly a special book for me; and for a special reason. When I write these articles I usually don't have the book in front of me; this is to encourage my mind to recall the things I am most ardent about. Here is a quote I really love from the book. So let me quote from my memory something from the book which made me go bonkers when I had read it the first time:
+> Dean: "...do you really plan to make such buildings son?"
 > Roark: "Yes"
 > Dean: "Who will let you?"
 > Roark: "That's not the point. The point is, who will stop me!"
