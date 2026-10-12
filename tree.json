@@ -143,7 +143,14 @@
           "type": "file",
           "name": "Tom Cruise.md",
           "path": "Random/Tom Cruise.md",
+          "slug": "tom-cruise",
           "title": "Tom Cruise",
+          "status": "OPEN",
+          "tags": [
+            "cruise",
+            "style"
+          ],
+          "excerpt": "I like Tom Cruise",
           "completed": false
         }
       ]
