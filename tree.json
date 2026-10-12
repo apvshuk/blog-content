@@ -135,6 +135,18 @@
       ]
     },
     {
+      "type": "folder",
+      "name": "Random",
+      "path": "Random",
+      "children": [
+        {
+          "type": "file",
+          "name": "Tom Cruise.md",
+          "path": "Random/Tom Cruise.md"
+        }
+      ]
+    },
+    {
       "type": "file",
       "name": ".gitignore",
       "path": ".gitignore"
