@@ -142,7 +142,9 @@
         {
           "type": "file",
           "name": "Tom Cruise.md",
-          "path": "Random/Tom Cruise.md"
+          "path": "Random/Tom Cruise.md",
+          "title": "Tom Cruise",
+          "completed": false
         }
       ]
     },
