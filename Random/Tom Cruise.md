@@ -16,6 +16,8 @@ So yes, it is decided. Although I am now also, besides jets, interested in Bush 
 
 A few pictures of me in an air-show:
 
-![That's me in front of a transport aircraft whose name I forget]((https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/Screenshot%20From%202026-10-13%2001-31-49.png))
+![That's me in front of a transport aircraft whose name I forget](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/Screenshot%20From%202026-10-13%2001-31-49.png)
+
 ![That's an f-35](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/Screenshot%20From%202026-10-13%2001-32-09.png)
+
 ![That's clueless me and behind me, I think is the AMCA](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/image.png)
