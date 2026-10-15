@@ -4,7 +4,7 @@ title: 'Marie Antoinette'
 status: 'OPEN'
 tags: ['history', 'marie-antoinette']
 excerpt:
-     'I could feel the emptiness of the world in this book while reading it. It was empty and sad and frightening. It was DYSTOPIA.'
+     'My Opinion: Marie Antoinette should not have been executed. She was innocent.'
 completed: false
 ---
 
