@@ -186,6 +186,11 @@
     },
     {
       "type": "file",
+      "name": "README.md",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
       "name": "todo.txt",
       "path": "todo.txt"
     }
