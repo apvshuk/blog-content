@@ -16,7 +16,7 @@ This is particularly a special book for me; and for a special reason. When I wri
 > Dean: "Who will let you?"
 > Roark: "That's not the point. The point is, who will stop me!"
 
-This interview of Roark with the Dean is the best part of the book, and it is (i don't remember exactly), maybe in the first 50 pages of the book. So you can start reading the book and you'll reach this part in no time.
+This interview of Roark with the Dean is the best part of the book, and it is, maybe in the first 50 pages of the book (i don't remember exactly). So you can start reading the book and you'll reach this part in no time.
 
 There's another quote, from the same interview of Roark with the Dean, that I will quote from memory again:
 > Roark: "You see those people over there; I don't give a damn about what they think about architecture, why should I care what there grandfather's though about architecture."
