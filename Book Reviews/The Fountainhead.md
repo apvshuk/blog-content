@@ -5,7 +5,7 @@ status: 'OPEN'
 tags: ['book-review', 'the-fountainhead', 'fountainhead']
 excerpt:
     '"Who will let you?...That is not the point; the point is who will stop me!"'
-completed: true
+completed: false
 ---
 
 # The Fountainhead
@@ -20,6 +20,7 @@ This interview of Roark with the Dean is the best part of the book, and it is, m
 
 There's another quote, from the same interview of Roark with the Dean, that I will quote from memory again:
 > Roark: "You see those people over there; I don't give a damn about what they think about architecture, why should I care what there grandfather's though about architecture."
+
 Roark says this to the dean. The dean and the college had been trying to persuade Roark to follow the college curriculum which Roark thought is redundant. The college curriculum pastes everything that the greeks did, but anything new. Roark dislikes this. He likes originality. Every college assignment he gets, he ignores the instructions and designs something modern devoid of anything that the greeks did. He does not want to copy the greeks or the egyptians etc. He wants to build new. This the college dislikes, and so finally he is being rusticated. This is the interview the dean takes to give Roark a final chance, in which he still refuses to conform, and is rusticated. He accepts it finally with no emotions whatsoever. He says those words to illustrate that he doesn't care about what the past did in architecture. He wants to build for the present.
 
 He is a modernist one may say. He is an originalist I say. I want to be like him too.
