@@ -5,13 +5,34 @@
   "children": [
     {
       "type": "folder",
-      "name": "Book Reviews",
-      "path": "Book Reviews",
+      "name": "1 Experiences",
+      "path": "1 Experiences",
+      "children": [
+        {
+          "type": "file",
+          "name": "SSB.md",
+          "path": "1 Experiences/SSB.md",
+          "slug": "ssb",
+          "title": "SSB",
+          "status": "OPEN",
+          "tags": [
+            "experience",
+            "ssb"
+          ],
+          "excerpt": "My experience giving my first and possibly my last SSB interview",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "2 Book Reviews",
+      "path": "2 Book Reviews",
       "children": [
         {
           "type": "file",
           "name": "1984.md",
-          "path": "Book Reviews/1984.md",
+          "path": "2 Book Reviews/1984.md",
           "slug": "1984",
           "title": "1984",
           "status": "OPEN",
@@ -25,7 +46,7 @@
         {
           "type": "file",
           "name": "Animal Farm.md",
-          "path": "Book Reviews/Animal Farm.md",
+          "path": "2 Book Reviews/Animal Farm.md",
           "slug": "Animal Farm",
           "title": "Animal Farm",
           "status": "OPEN",
@@ -39,7 +60,7 @@
         {
           "type": "file",
           "name": "Communist Manifesto.md",
-          "path": "Book Reviews/Communist Manifesto.md",
+          "path": "2 Book Reviews/Communist Manifesto.md",
           "slug": "communist-manifesto",
           "title": "Communist Manifesto",
           "status": "OPEN",
@@ -52,7 +73,7 @@
         {
           "type": "file",
           "name": "Frankenstein.md",
-          "path": "Book Reviews/Frankenstein.md",
+          "path": "2 Book Reviews/Frankenstein.md",
           "slug": "frankenstein",
           "title": "Frankenstein",
           "date": "5th August 2025",
@@ -67,7 +88,7 @@
         {
           "type": "file",
           "name": "The Fountainhead.md",
-          "path": "Book Reviews/The Fountainhead.md",
+          "path": "2 Book Reviews/The Fountainhead.md",
           "slug": "The Fountainhead",
           "title": "The Fountainhead",
           "status": "OPEN",
@@ -82,7 +103,7 @@
         {
           "type": "file",
           "name": "White Nights.md",
-          "path": "Book Reviews/White Nights.md",
+          "path": "2 Book Reviews/White Nights.md",
           "slug": "White Nights",
           "title": "White Nights",
           "status": "OPEN",
@@ -98,34 +119,13 @@
     },
     {
       "type": "folder",
-      "name": "Experiences",
-      "path": "Experiences",
-      "children": [
-        {
-          "type": "file",
-          "name": "SSB.md",
-          "path": "Experiences/SSB.md",
-          "slug": "ssb",
-          "title": "SSB",
-          "status": "OPEN",
-          "tags": [
-            "experience",
-            "ssb"
-          ],
-          "excerpt": "My experience giving my first and possibly my last SSB interview",
-          "completed": false
-        }
-      ]
-    },
-    {
-      "type": "folder",
-      "name": "History",
-      "path": "History",
+      "name": "3 History",
+      "path": "3 History",
       "children": [
         {
           "type": "file",
           "name": "Marie Antoinette.md",
-          "path": "History/Marie Antoinette.md",
+          "path": "3 History/Marie Antoinette.md",
           "slug": "marie-antoinette",
           "title": "Marie Antoinette",
           "status": "OPEN",
@@ -139,19 +139,19 @@
         {
           "type": "file",
           "name": "Napoleon Bonaparte.md",
-          "path": "History/Napoleon Bonaparte.md"
+          "path": "3 History/Napoleon Bonaparte.md"
         }
       ]
     },
     {
       "type": "folder",
-      "name": "Random",
-      "path": "Random",
+      "name": "9999 Random",
+      "path": "9999 Random",
       "children": [
         {
           "type": "file",
           "name": "Tom Cruise.md",
-          "path": "Random/Tom Cruise.md",
+          "path": "9999 Random/Tom Cruise.md",
           "slug": "tom-cruise",
           "title": "Tom Cruise",
           "status": "OPEN",
