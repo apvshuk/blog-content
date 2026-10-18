@@ -52,7 +52,7 @@ function buildTree(currentPath, relativePath = '') {
     .filter((entry) => {
       /*
        * Don't include GitHub Actions,
-       * node_modules, or the generated tree itself.
+       * node_modules, or the generated tree itself or the README.md file.
        */
 
       if (entry.name === 'node_modules') {
@@ -69,6 +69,10 @@ function buildTree(currentPath, relativePath = '') {
 
       if (entry.name === 'tree.json') {
         return false;
+      }
+
+      if (entry.name === 'README.md') {
+         return false;
       }
 
       return true;
