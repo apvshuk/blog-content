@@ -124,6 +124,20 @@
       "children": [
         {
           "type": "file",
+          "name": "Julius Caesar.md",
+          "path": "3 History/Julius Caesar.md",
+          "slug": "j-caesar",
+          "title": "Julius Caesar",
+          "status": "OPEN",
+          "tags": [
+            "history",
+            "julius-caesar"
+          ],
+          "excerpt": "Vini, Vedi, Vici",
+          "completed": false
+        },
+        {
+          "type": "file",
           "name": "Marie Antoinette.md",
           "path": "3 History/Marie Antoinette.md",
           "slug": "marie-antoinette",
