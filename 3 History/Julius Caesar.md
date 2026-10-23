@@ -4,7 +4,7 @@ title: 'Julius Caesar'
 status: 'OPEN'
 tags: ['history', 'julius-caesar']
 excerpt:
-     '"Veni, vidi, vici"'
+     '"Veni, Vidi, Vici"'
 completed: false
 ---
 
