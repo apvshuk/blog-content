@@ -23,32 +23,32 @@ A few pictures of me in an air-show:
 
 ![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/1.png)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/2.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/2.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/3.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/3.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/4.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/4.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/5.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/5.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/6.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/6.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/7.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/7.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/8.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/8.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/9.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/9.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/10.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/10.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/11.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/11.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/12.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/12.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/13.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/13.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/14.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/14.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/15.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/15.jpeg)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/16.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/16.jpeg)
