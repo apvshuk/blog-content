@@ -21,8 +21,34 @@ I'll do that with my wife. Sure-thing it is.
 
 A few pictures of me in an air-show:
 
-![That's me in front of a transport aircraft whose name I forget](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/Screenshot%20From%202026-10-13%2001-31-49.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/1.png)
 
-![That's an f-35](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/Screenshot%20From%202026-10-13%2001-32-09.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/2.png)
 
-![That's clueless me and behind me, I think is the AMCA](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/image.png)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/3.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/4.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/5.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/6.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/7.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/8.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/9.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/10.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/11.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/12.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/13.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/14.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/15.png)
+
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/16.png)
