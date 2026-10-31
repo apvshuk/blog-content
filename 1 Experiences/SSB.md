@@ -32,7 +32,11 @@ Then the CT started; I was told, I am on an island which is sinking very fast an
 After this there was a Final Group Task - which we did superbly - we did the challenge in way less than 10 minutes, which was the time limit. And this one was really great team spirit. Meaning, we had learnt to work as a team by the time the final test had arrived - which is a good thing. In all the team tasks, I did not show desparation to perform, I watched, I helped, but I did not do things to show that I am desperate for the GTO officer to look at me. I was **insouciance** (carefree).
 
 
-## The fifth day, was conference.
+## **Day5:**
 I did not feel nervous AT ALL in front of the 18-20 (whatever) number of officers were sitting. I even made them laugh by saying, "if i get a chance, I'll stay here indefinitely".
-
 [More to write about this day]
+
+
+## Future notes; key take-away:
+Veni, Vidi, Vici - this was written on the board above the GTO gate entrance gate. These are Julius Caesar's words! "He came, He saw, He conquered"
+I came to SSB for the first time in my life and had this experience for the very first time in life. Next time, after four years I will come back to SSB, "I came [to SSB]", "I saw [SSB]", "I will conquer [SSB]". Will I join the military after clearing SSB? - don't know! in these four years my interests may change; already i am seeing myself going mad for technology. So will I join the military after 4 years, YES, maybe NO. BUT WILL I PASS SSB - HELL FUCKING YES.
