@@ -23,7 +23,7 @@ A few pictures of me in an air-show:
 
 ![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/1.png)
 
-![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/2.jpeg)
+![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/2.png)
 
 ![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/4.jpeg)
 
