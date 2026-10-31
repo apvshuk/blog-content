@@ -1,10 +1,10 @@
 ---
 slug: 'tom-cruise'
-title: 'Tom Cruise'
+title: 'Tom Cruise and Flying'
 status: 'OPEN'
-tags: ['cruise', 'style']
+tags: ['cruise', 'style', 'aviation']
 excerpt:
-    'I like Tom Cruise'
+    'I like Tom Cruise and I like flying'
 completed: false
 ---
 
