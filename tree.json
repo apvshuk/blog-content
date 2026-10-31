@@ -167,13 +167,14 @@
           "name": "Tom Cruise.md",
           "path": "9999 Random/Tom Cruise.md",
           "slug": "tom-cruise",
-          "title": "Tom Cruise",
+          "title": "Tom Cruise and Flying",
           "status": "OPEN",
           "tags": [
             "cruise",
-            "style"
+            "style",
+            "aviation"
           ],
-          "excerpt": "I like Tom Cruise",
+          "excerpt": "I like Tom Cruise and I like flying",
           "completed": false
         }
       ]
