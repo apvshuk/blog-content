@@ -20,6 +20,7 @@ I am now also, besides jets, interested in Bush Flying. Bush flying in easy word
 I'll do that with my wife. Sure-thing it is.
 
 Look at this image; one day I'll have this photo clicked of myself; look the background, look at the scenery and the jet, I want it:
+
 ![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/pilot_image_badass.jpg)
 
 A few pictures of me in an air-show:
