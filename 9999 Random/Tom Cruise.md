@@ -19,7 +19,7 @@ All this because of Tom Cruise. I LOVE YOU MR. TOM CRUISE. The 24 year old Cruis
 I am now also, besides jets, interested in Bush Flying. Bush flying in easy words is, taking your bush aircraft - a propeller - to different places in the wilderness. Fly (from home), land (in jungle), camp (somewhere in jungle), fly again.
 I'll do that with my wife. Sure-thing it is.
 
-Look at this image; one day I'll have this photo clicked of myself; look the background, look at the scenery and the jet, I want it:
+Look at this image; one day I'll have this photo clicked of myself; look at the background, look at the scenery and look at the jet, I want it, Look how cool those pilots are:
 
 ![](https://raw.githubusercontent.com/apvshuk/blog-content/refs/heads/main/.github/images/pilot_image_badass.jpg)
 
